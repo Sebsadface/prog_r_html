@@ -1,2 +1,2 @@
-# prog_r_html
+# r_html
 R + HTML + CSS
